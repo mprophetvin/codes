@@ -10,7 +10,7 @@ const basketWidth = 100;
 const basketHeight = 20;
 let basketX = canvas.width / 2 - basketWidth / 2;
 const basketY = canvas.height - 50;
-let basketSpeed = 10;
+let basketSpeed = 50;
 
 const objectSize = 20;
 let objects = [];
